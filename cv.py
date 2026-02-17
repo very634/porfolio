@@ -8,7 +8,7 @@ st.write("passionné de géomatique par sa capacité à modéliser et analyser l
 
 with st.sidebar:
     st.title("Mouhamed BA")
-    
+    st.image("moi.jpeg")
     st.write("mail: mouhv166@gmail.com")
     st.write("numéro: +221 70 114 55 89")
     st.write("Addresse: Lac Rose, Rufisque, SENEGAL")
@@ -19,8 +19,8 @@ with st.sidebar:
 st.title("EXPERIENCES PROFESSIONELLES")
 st.write("*collecte et acquition des données")
 st.write("traitement et intégration dans un SIG")
-st.write("")
-st.write("")
+st.write("*cartographie et analyses thématiques")
+st.write("*partiipation à des projets collaboratifs")
 
 st.title("COMPETENCES")
 st.write("*maitrise parfaite de l'outil informatique")
