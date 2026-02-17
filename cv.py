@@ -29,7 +29,7 @@ st.write("*Python(Notebook,Jupyter)")
 st.write("*cartographie(maitrise en collecte des données puis le traitement de ses données sur ARCgis)")
 st.write("*capable de réaliser des plans architecturals")
 st.write("*Réalisation des cartes sur ARCgis et Qgis")
-st.write("")
+
 
 
 
