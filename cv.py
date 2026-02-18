@@ -21,7 +21,7 @@ st.title("💻EXPERIENCES PROFESSIONELLES")
 st.write("*collecte et acquition des données")
 st.write("*traitement et intégration dans un SIG")
 st.write("*cartographie et analyses thématiques")
-st.write("*partiipation à des projets collaboratifs")
+st.write("*participation à des projets collaboratifs")
 
 st.title("🛠️COMPETENCES")
 st.write("*maitrise parfaite de l'outil informatique")
