@@ -38,7 +38,7 @@ st.write("*BAC")
 
 
 st.title("DIVERS")
-st.write("*👨🏽‍🌾Agriculteur et éleveur")
+st.write("*👨🏽‍🌾Agriculteur")
 st.write("*🐄éleveur")
 
 
