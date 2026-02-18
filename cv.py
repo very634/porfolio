@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("A propos de moi")
+st.title("MON PROFIL")
 st.write("passionné de géomatique par sa capacité à modéliser et analyser le territoire.J'utilise en tant que technicien supérieur en géomatique les SIG,la télédétection,et des bases de données pour cartographier et amener des solutions dans l'amenagement térritorial")
 
 
@@ -31,11 +31,15 @@ st.write("*cartographie(maitrise en collecte des données puis le traitement de 
 st.write("*capable de réaliser des plans architecturals")
 st.write("*Réalisation des cartes sur ARCgis et Qgis")
 
-
+st.title("🎓FORMATION")
+st.write("BTS en Géomatique au CEDT LE G15")
+st.write("LICENCE1 de Management des Ressources Humaines à l'UCAD")
+st.write("BAC")
 
 
 st.title("DIVERS")
 st.write("*👨🏽‍🌾Agriculteur et éleveur")
 st.write("*🐄éleveur")
+
 
 
