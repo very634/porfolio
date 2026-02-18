@@ -12,7 +12,7 @@ with st.sidebar:
     st.write("email: mouhv166@gmail.com")
     st.write("numéro: +221 70 114 55 89")
     st.write("Addresse: Lac Rose, Rufisque, SENEGAL")
-    
+    st.write("toujours disponible pour des opportinutés en Géomatique")
 
 
 
