@@ -34,7 +34,7 @@ st.write("*Réalisation des cartes sur ARCgis et Qgis")
 
 
 st.title("DIVERS")
-st.write("👨🏽‍🌾Agriculteur et éleveur")
-st.write("maitrise de la langue espagnole")
+st.write("*👨🏽‍🌾Agriculteur et éleveur")
+st.write("*maitrise de la langue espagnole")
 
 
