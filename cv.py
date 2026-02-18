@@ -7,22 +7,22 @@ st.write("passionné de géomatique par sa capacité à modéliser et analyser l
 
 
 with st.sidebar:
-    st.title("Mouhamed BA")
+    st.title("👷🏽‍♂️Mouhamed BA")
     st.image("moi.jpeg")
-    st.write("email: mouhv166@gmail.com")
-    st.write("☎️numéro: +221 70 114 55 89")
+    st.write("📨email: mouhv166@gmail.com")
+    st.write("📞numéro: +221 70 114 55 89")
     st.write("📍Addresse: Lac Rose, Rufisque, SENEGAL")
     
 
 
 
-st.title("EXPERIENCES PROFESSIONELLES")
+st.title("💻EXPERIENCES PROFESSIONELLES")
 st.write("*collecte et acquition des données")
 st.write("*traitement et intégration dans un SIG")
 st.write("*cartographie et analyses thématiques")
 st.write("*partiipation à des projets collaboratifs")
 
-st.title("COMPETENCES")
+st.title("🛠️COMPETENCES")
 st.write("*maitrise parfaite de l'outil informatique")
 st.write("*mise en place d'une base de donnée")
 st.write("*Python(Notebook,Jupyter)")
@@ -34,7 +34,7 @@ st.write("*Réalisation des cartes sur ARCgis et Qgis")
 
 
 st.title("DIVERS")
-st.write("Agriculteur et éleveur ")
-st.write("Bac")
+st.write("👨🏽‍🌾Agriculteur et éleveur")
+st.write("maitrise de la langue espagnole")
 
 
