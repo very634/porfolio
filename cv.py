@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("MON PROFIL")
-st.write("passionné de géomatique par sa capacité à modéliser et analyser le territoire.J'utilise en tant que technicien supérieur en géomatique les SIG,la télédétection,et des bases de données pour cartographier et amener des solutions dans l'amenagement térritorial")
+st.write("passionné d'agronomie et aussi de géomatique par sa capacité à modéliser et analyser le territoire.J'utilise en tant que technicien supérieur en géomatique les SIG,la télédétection,et des bases de données pour cartographier et amener des solutions dans l'amenagement térritorial")
 
 
 
