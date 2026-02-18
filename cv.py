@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Technicien Supérieur en géomatique")
+st.title("A propos de moi")
 st.write("passionné de géomatique par sa capacité à modéliser et analyser le territoire.J'utilise en tant que technicien supérieur en géomatique les SIG,la télédétection,et des bases de données pour cartographier et amener des solutions dans l'amenagement térritorial")
 
 
@@ -12,7 +12,7 @@ with st.sidebar:
     st.write("📨email: mouhv166@gmail.com")
     st.write("📞numéro: +221 70 114 55 89")
     st.write("📍Addresse: Lac Rose, Rufisque, SENEGAL")
-    
+    st.write("Technicien supérieur en Géomatique")
 
 
 
