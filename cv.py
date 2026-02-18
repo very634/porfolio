@@ -36,6 +36,6 @@ st.write("*Réalisation des cartes sur ARCgis et Qgis")
 
 st.title("DIVERS")
 st.write("*👨🏽‍🌾Agriculteur et éleveur")
-st.write("🐄*éleveur")
+st.write("*🐄éleveur")
 
 
