@@ -10,15 +10,15 @@ with st.sidebar:
     st.title("Mouhamed BA")
     st.image("moi.jpeg")
     st.write("email: mouhv166@gmail.com")
-    st.write("numéro: +221 70 114 55 89")
-    st.write("Addresse: Lac Rose, Rufisque, SENEGAL")
+    st.write("☎️numéro: +221 70 114 55 89")
+    st.write("📍Addresse: Lac Rose, Rufisque, SENEGAL")
     
 
 
 
 st.title("EXPERIENCES PROFESSIONELLES")
 st.write("*collecte et acquition des données")
-st.write("traitement et intégration dans un SIG")
+st.write("*traitement et intégration dans un SIG")
 st.write("*cartographie et analyses thématiques")
 st.write("*partiipation à des projets collaboratifs")
 
@@ -33,8 +33,8 @@ st.write("*Réalisation des cartes sur ARCgis et Qgis")
 
 
 
-st.title("FORMATIONS")
-st.write("Bevet de Technicien Supérieur(BTS)")
+st.title("DIVERS")
+st.write("Agriculteur et éleveur ")
 st.write("Bac")
 
 
