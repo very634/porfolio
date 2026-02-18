@@ -32,9 +32,9 @@ st.write("*capable de réaliser des plans architecturals")
 st.write("*Réalisation des cartes sur ARCgis et Qgis")
 
 st.title("🎓FORMATION")
-st.write("BTS en Géomatique au CEDT LE G15")
-st.write("LICENCE1 de Management des Ressources Humaines à l'UCAD")
-st.write("BAC")
+st.write("*BTS en Géomatique au CEDT LE G15")
+st.write("*LICENCE1 de Management des Ressources Humaines à l'UCAD")
+st.write("*BAC")
 
 
 st.title("DIVERS")
