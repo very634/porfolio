@@ -9,7 +9,7 @@ st.write("passionné de géomatique par sa capacité à modéliser et analyser l
 with st.sidebar:
     st.title("👷🏽‍♂️Mouhamed BA")
     st.write("TECHNICIEN SUPERIEUR EN GEOMATIQUE")
-    st.image("moi.jpeg")
+    
     st.write("📨email: mouhv166@gmail.com")
     st.write("📞numéro: +221 70 114 55 89")
     st.write("📍Addresse: Lac Rose, Rufisque, SENEGAL")
